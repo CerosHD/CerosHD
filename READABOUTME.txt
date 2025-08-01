@@ -1,5 +1,7 @@
-- 👋 Hi, I’m CerosHD
-- 👀 I’m not interested in sports
-- 🌱 I’m currently learning Java
-- 📫 How to reach me (ceroshd@gmail.com)
+- Hi, I’m CerosHD
+- I’m not interested in sports but I'm not fat either
+- I’m mostly programming php
+- you cann call me a Database nerd
+- How to reach me (ceroshd@gmail.com)
+- currently starting my own business with erp systems
 
